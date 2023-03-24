@@ -2,7 +2,7 @@
 
 O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha completa em Java Spring Boot.
 
-Aqui se encontra os desafios de projetoe  de Código que ao decorrer do BootCamp estou fazendo. (Em Conclusão)
+Aqui se encontra os desafios de projeto e  de Código que ao decorrer do BootCamp estou fazendo. (Em Conclusão)
 ## Desafios:
 
 1. Fábrica de Carros.
