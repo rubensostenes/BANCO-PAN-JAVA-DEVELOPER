@@ -1,4 +1,6 @@
+package Desafios;
 import java.util.*;
+
 public class Dragão{ 
     
    public static void main(String[] args){

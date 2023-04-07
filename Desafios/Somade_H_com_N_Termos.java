@@ -1,3 +1,4 @@
+package Desafios;
 import java.util.Scanner;
 
 public class Somade_H_com_N_Termos{
