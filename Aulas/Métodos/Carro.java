@@ -1,4 +1,4 @@
-package Métodos;
+package Aulas.Métodos;
 
 class Carro{
     

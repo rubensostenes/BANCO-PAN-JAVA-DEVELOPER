@@ -1,4 +1,4 @@
-package Métodos;
+package Aulas.Métodos;
 
 public class Program {
     public static void main(String[] args) {
